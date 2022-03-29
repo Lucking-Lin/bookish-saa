@@ -1,2 +1,0 @@
-# bookish-saa
-SAA Notes
